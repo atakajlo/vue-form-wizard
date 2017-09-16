@@ -4,7 +4,8 @@
   "description": "A vue based tab/form wizard",
   "main": "dist/vue-form-wizard.js",
   "files": [
-    "dist"
+    "dist",
+    "src"
   ],
   "homepage": "https://github.com/cristijora/vue-form-wizard",
   "scripts": {
