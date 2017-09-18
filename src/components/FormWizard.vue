@@ -417,5 +417,5 @@
   }
 </script>
 <style lang="scss">
-  @import "./../assets/wizard";
+  // @import "./../assets/wizard";
 </style>
